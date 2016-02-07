@@ -1,3 +1,5 @@
+#!/usr/bin/env python2.7
+
 import pxssh
 import getpass
 import random
